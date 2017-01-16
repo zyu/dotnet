@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+  <conn id="d495c0aa1c" name="爱卡" description="D4New" connstr="cda5behyR2E8fTEq0kiBQQH2pJSd4PNzbuV3rD5qGhXUIGlY3gNN+hlFl9HsWZKgFOvqnbhs6Eo2yAEcCFtDGdZvLgwpGqP+dCwJeg3Ndo7WGT/WMemRkA==" />
+  <conn id="dc61d65c5c" name="豫福通" description="byy2" connstr="cda5behyR2E8fTEq0kiBQQH2pJSd4PNzbuV3rD5qGhXUIGlY3gNN+qnp970jIoNmWYUVdLTf8e2TClf/shX0UjlZa5DxIlIIlrjSNtjwokJMIB5yaE1XVg==" />
+  <conn id="494e88fb9b" name="订单库" description="bycmc" connstr="cda5behyR2E8fTEq0kiBQQH2pJSd4PNzbuV3rD5qGhXUIGlY3gNN+iY8Bh8UalgFb73nCPpc2fFQD1jKgl97s38GbI7gects4Ow5LicjhacIRw03MoYcUg==" />
+ 
+  <conn id="a698d61ddd" name="公交" description="busbind" connstr="cda5behyR2E8fTEq0kiBQQH2pJSd4PNzbuV3rD5qGhXUIGlY3gNN+piUWaHe7kEKNDEW8Q71X8bTLf9aA/xKy7xwgn1MOgsa/dhXUwpuMCcdh0NNXJHhPA==" />
+<conn id="afr24sfs342" name="便利店" description="StoreClient" connstr="cda5behyR2E8fTEq0kiBQQH2pJSd4PNzbuV3rD5qGhXUIGlY3gNN+gy0NrdAyrewEUksHc/fmIISLHv5Ve71d9fIZA8vejxTa/tBSA6UBta2TMAS3aoOGA==" />
+<conn id="asdf2234gsf" name="家购" description="jiagou" connstr="cda5behyR2E8fTEq0kiBQQH2pJSd4PNzbuV3rD5qGhXUIGlY3gNN+rjoXQP8Kz0/0fbVPfLAMdi44Z1Q34VF6aMTK9j3izch7QeBicd3h0sIKCXjG/dbgg==" />
+<conn id="sdfdf" name="RoleAuthorize" description="RoleAuthorize" connstr="cda5behyR2E8fTEq0kiBQQH2pJSd4PNzbuV3rD5qGhXUIGlY3gNN+iDKpwStuPiR3kGUGlYEgc2+S9PkWHEY604jCK+6fl5ifzXemjE8ljwK5M3Zvre3MbYArZazECrg" />
+<conn id="sdfdsdff" name="Aika" description="Aika" connstr="cda5behyR2E8fTEq0kiBQQH2pJSd4PNzbuV3rD5qGhXUIGlY3gNN+vVTxPwQK1+XeUx8FlepnhVq+TyklFDzKa18Rc2Hz4TCo0F4flFzjKP6aSNZXAnNNw==" />
+<conn id="dddd" name="SimDataBase" description="SimDataBase" connstr="cda5behyR2E8fTEq0kiBQQH2pJSd4PNzbuV3rD5qGhXUIGlY3gNN+kEqbfLI+EBcX8RKEQwrMh8ajoa4vIKmlRqoOidZ0rI9rVRp0gmtPJYqMDRuTrEsxw==" />
+</Datas>
